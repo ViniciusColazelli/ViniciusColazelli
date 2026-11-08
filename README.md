@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:512BD4,100:61DAFB&height=180&section=header&text=Vin%C3%ADcius%20Colazelli&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Desenvolvedor%20em%20forma%C3%A7%C3%A3o&descAlignY=58&descSize=18" width="100%" alt="Vinícius Colazelli" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:512BD4,100:61DAFB&height=180&section=header&text=Vin%C3%ADcius%20Colazelli&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&descSize=18" width="100%" alt="Vinícius Colazelli" />
 
 ### 👨‍💻 Sobre mim
 
