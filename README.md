@@ -4,7 +4,13 @@ Desenvolvedor em formação no Centro Universitário FAM, com foco em back-end c
 
 Atualmente trabalhando num e-commerce para uma empresa real do segmento de vestuário e estudando React e Node.js pelo [curso.dev](https://curso.dev).
 
-**Tecnologias:** C# · .NET · JavaScript · React · Python · PostgreSQL · Git
+### Tecnologias e ferramentas
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cs,dotnet,js,react,nodejs,py,postgres,git,github,vscode&perline=10" alt="C#, .NET, JavaScript, React, Node.js, Python, PostgreSQL, Git, GitHub, VS Code" />
+  </a>
+</p>
 
 ### Projetos
 
