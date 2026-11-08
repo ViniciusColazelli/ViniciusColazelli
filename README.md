@@ -29,16 +29,6 @@
 | 🎨 [ProjetoEccomerce_Front](https://github.com/ViniciusColazelli/ProjetoEccomerce_Front) | Front-end do e-commerce · React |
 | 📰 [clone-tabnews](https://github.com/ViniciusColazelli/clone-tabnews) | Projeto de estudo do curso.dev, construído do zero |
 
-### 📊 Estatísticas
-
-<p align="center">
-  <img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ViniciusColazelli&theme=tokyonight" alt="Estatísticas do GitHub" />
-  <img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ViniciusColazelli&theme=tokyonight" alt="Linguagens mais usadas" />
-</p>
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=ViniciusColazelli&theme=tokyonight&hide_border=true&locale=pt_BR" alt="Sequência de contribuições" />
-</p>
-
 ### 📫 Contato
 
 <p align="left">
