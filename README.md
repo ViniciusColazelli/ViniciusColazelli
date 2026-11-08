@@ -8,10 +8,10 @@
 
 ### 👨‍💻 Sobre mim
 
-- 🎓 Estudante no **Centro Universitário FAM**
-- ⚙️ Foco em **back-end com C# e .NET**
-- 🛒 Desenvolvendo um **e-commerce para uma empresa real** do segmento de vestuário
-- 📚 Estudando **React** e **Node.js** pelo [curso.dev](https://curso.dev)
+- Estudante no **Centro Universitário FAM**
+- Foco em **back-end com C# e .NET**
+- Desenvolvendo um **e-commerce para uma empresa real** do segmento de vestuário
+- Estudando **React** e **Node.js** pelo [curso.dev](https://curso.dev)
 
 ### 🛠️ Tecnologias e ferramentas
 
@@ -28,7 +28,6 @@
 | 🛍️ [ProjetoEccomerce](https://github.com/ViniciusColazelli/ProjetoEccomerce) | Back-end do e-commerce · C#, .NET, PostgreSQL |
 | 🎨 [ProjetoEccomerce_Front](https://github.com/ViniciusColazelli/ProjetoEccomerce_Front) | Front-end do e-commerce · React |
 | 📰 [clone-tabnews](https://github.com/ViniciusColazelli/clone-tabnews) | Projeto de estudo do curso.dev, construído do zero |
-| 📦 [Gestor de Estoque](https://github.com/ViniciusColazelli/Gestor-de-estoque-orientado-a-objetos-no-CMD) | Gestão de estoque no terminal com POO · C# |
 
 ### 📊 Estatísticas
 
